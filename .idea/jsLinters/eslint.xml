@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EslintConfiguration">
+    <extra-options value="module.exports = { &quot;env&quot;: { &quot;browser&quot;: true, &quot;node&quot;: true, &quot;es6&quot;: true }, &quot;extends&quot;: &quot;airbnb&quot;, &quot;plugins&quot;: [ &quot;react&quot; ], &quot;rules&quot;: { &quot;comma-dangle&quot;: [&quot;error&quot;, &quot;never&quot;], &quot;react/jsx-filename-extension&quot;: [1, {&quot;extensions&quot;: [&quot;.js&quot;, &quot;.jsx&quot;]}] } };" />
+  </component>
+</project>
